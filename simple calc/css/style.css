@@ -1,0 +1,15 @@
+body{
+    min-height: 100px;
+}
+
+#test{
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    transition: all 1s;
+}
+i:first-of-type{
+    cursor: pointer;
+}
